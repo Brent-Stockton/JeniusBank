@@ -1,0 +1,9 @@
+.jenius-button {
+  background-color: rgb(82, 27, 116);
+}
+
+@media (max-width: 768px) {
+  .jenius-button {
+    width: 100%;
+  }
+}

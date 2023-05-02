@@ -1,0 +1,82 @@
+.container {
+  background-image: url("https://images.static.jeniusbank.com/81bfavdafg0o/6B3IHLQXyoT7iITwZ3dMOm/20466a4dfd6749aa03af72cf7fad343e/Isometric-HPH.png");
+  background-position: center;
+  background-size: 95%;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.heading {
+  display: flex;
+  justify-self: flex-start;
+  margin-left: 15vw;
+}
+
+.text {
+  font-family: Roboto, sans-serif;
+}
+
+.mobile-img {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    display: block;
+
+    background-image: none;
+  }
+  .intro-header {
+    font-size: 7vw;
+    margin-top: 2rem;
+  }
+  .text {
+    font-size: 3vw;
+    font-family: Roboto, sans-serif;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+  }
+  .j-button {
+    margin-top: 1rem;
+  }
+  .heading {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: 0;
+    padding: 2rem;
+    position: relative;
+  }
+
+  .mobile-container.dn {
+    display: block;
+  }
+
+  .mobile-img-container {
+    position: relative;
+    bottom: 0;
+    left: 30%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 50vh;
+    background-image: url("https://images.static.jeniusbank.com/81bfavdafg0o/6B3IHLQXyoT7iITwZ3dMOm/20466a4dfd6749aa03af72cf7fad343e/Isometric-HPH.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .mobile-img {
+    width: 100%;
+    display: none;
+  }
+}
+
+@media (max-width: 699px) {
+  .text {
+    font-size: 4vw;
+  }
+  .intro-header {
+    font-size: vw;
+    margin-top: 2rem;
+  }
+}
