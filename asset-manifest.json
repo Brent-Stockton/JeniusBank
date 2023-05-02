@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JeniusBank/static/css/main.aa416506.css",
+    "main.js": "/JeniusBank/static/js/main.d9005656.js",
+    "static/css/99.3569e5d7.chunk.css": "/JeniusBank/static/css/99.3569e5d7.chunk.css",
+    "static/js/99.a831348c.chunk.js": "/JeniusBank/static/js/99.a831348c.chunk.js",
+    "static/js/837.3edac1bf.chunk.js": "/JeniusBank/static/js/837.3edac1bf.chunk.js",
+    "static/js/607.3b36f101.chunk.js": "/JeniusBank/static/js/607.3b36f101.chunk.js",
+    "static/js/75.2329a286.chunk.js": "/JeniusBank/static/js/75.2329a286.chunk.js",
+    "static/js/787.ce11a4dd.chunk.js": "/JeniusBank/static/js/787.ce11a4dd.chunk.js",
+    "static/js/861.f3352879.chunk.js": "/JeniusBank/static/js/861.f3352879.chunk.js",
+    "index.html": "/JeniusBank/index.html",
+    "main.aa416506.css.map": "/JeniusBank/static/css/main.aa416506.css.map",
+    "main.d9005656.js.map": "/JeniusBank/static/js/main.d9005656.js.map",
+    "99.3569e5d7.chunk.css.map": "/JeniusBank/static/css/99.3569e5d7.chunk.css.map",
+    "99.a831348c.chunk.js.map": "/JeniusBank/static/js/99.a831348c.chunk.js.map",
+    "837.3edac1bf.chunk.js.map": "/JeniusBank/static/js/837.3edac1bf.chunk.js.map",
+    "607.3b36f101.chunk.js.map": "/JeniusBank/static/js/607.3b36f101.chunk.js.map",
+    "75.2329a286.chunk.js.map": "/JeniusBank/static/js/75.2329a286.chunk.js.map",
+    "787.ce11a4dd.chunk.js.map": "/JeniusBank/static/js/787.ce11a4dd.chunk.js.map",
+    "861.f3352879.chunk.js.map": "/JeniusBank/static/js/861.f3352879.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa416506.css",
+    "static/js/main.d9005656.js"
+  ]
+}

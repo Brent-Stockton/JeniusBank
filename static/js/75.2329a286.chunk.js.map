@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/75.2329a286.chunk.js","mappings":"sKAAe,SAASA,IACtB,OAAOC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,SACb,C","sources":["Pages/Press.js"],"sourcesContent":["export default function Press() {\n  return <h1>Press</h1>;\n}\n"],"names":["Press","_jsx","children"],"sourceRoot":""}

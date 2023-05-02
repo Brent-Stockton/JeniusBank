@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjenius_bank=self.webpackChunkjenius_bank||[]).push([[75],{75:function(n,e,u){u.r(e),u.d(e,{default:function(){return r}});var s=u(184);function r(){return(0,s.jsx)("h1",{children:"Press"})}}}]);
+//# sourceMappingURL=75.2329a286.chunk.js.map
