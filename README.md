@@ -10,6 +10,8 @@ The following technologies were used for this project:
 - React Router
 - Robohash API
 - JSON Placeholder API
+- React Hooks
+- React Props
 
 ## Features Implemented
 
