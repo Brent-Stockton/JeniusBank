@@ -12,6 +12,7 @@ The following technologies were used for this project:
 - JSON Placeholder API
 - React Hooks
 - React Props
+- Responsive Web Design
 
 ## Features Implemented
 
